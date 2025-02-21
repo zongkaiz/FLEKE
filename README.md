@@ -1,4 +1,4 @@
-# FedLEKE
+# FLEKE
 - Code for [``FedLEKE: Federated Locate-then-Edit Knowledge Editing for Multi-Client Collaboration``](https://arxiv.org网址到时放到这里)
 ## Table of Contents
 - [FedLEKE](#FedLEKE)
