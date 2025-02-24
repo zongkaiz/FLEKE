@@ -37,3 +37,18 @@ You can first use our code in `FedEdit\preprocess_for_client\mcf_preprocess_for_
 
 ## Acknowledgment
 Our code is based on  [``MEMIT``](https://github.com/kmeng01/memit.git) and [``PMET``](https://github.com/xpq-tech/PMET).
+
+## Citation
+
+Zongkai Zhao, Guozeng Xu, Xiuhua Li, Kaiwen Wei, Jiang Zhong.
+FLEKE: Federated Locate-then-Edit Knowledge Editing.
+arXiv preprint arXiv:2502.15677 (2025).
+
+```
+@article{zhao2025fleke,
+  title={FLEKE: Federated Locate-then-Edit Knowledge Editing},
+  author={Zhao, Zongkai and Xu, Guozeng and Li, Xiuhua and Wei, Kaiwen and Zhong, Jiang},
+  journal={arXiv preprint arXiv:2502.15677},
+  year={2025}
+}
+```
